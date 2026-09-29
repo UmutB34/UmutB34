@@ -29,7 +29,7 @@ Enterprise technology leadership backed by hands-on engineering. The work has mo
 from hands-on support and troubleshooting to owning infrastructure, running operations
 and leading teams — without leaving the technical detail behind.
 
-- **Enterprise IT Operations** — keeping ~700 endpoints and their users productive, day after day.
+- **Enterprise IT Operations** — leading enterprise technology operations and service delivery across a multi-location environment of approximately 700 endpoints/users.
 - **Infrastructure & Networks** — servers, virtualization, networking and connectivity across multiple sites.
 - **Cybersecurity** — hardening, security remediation and reducing technology risk.
 - **Identity, Endpoint & Digital Workplace** — identity and access, endpoint management, collaboration platforms.
