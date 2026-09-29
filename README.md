@@ -93,6 +93,10 @@ automation concepts before translating the lessons into larger environments.
 architecture, access model, decision records and lessons learned, documented the way
 they would be run in production.
 
+→ **[security-operations-toolkit](https://github.com/UmutB34/security-operations-toolkit)** —
+defensive, read-only checks for email authentication, TLS certificates and HTTP
+security headers, with deterministic findings and remediation guidance.
+
 ## Core Technology Domains
 
 | Operations & Infrastructure | Security & Governance | Transformation & Delivery |
