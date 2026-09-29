@@ -10,39 +10,13 @@ Last reviewed: 2026-09-30
 
 ## 1. Current public repository audit
 
-Public repositories owned by `UmutB34` at the time of review: **2**.
+Public repositories owned by `UmutB34` after cleanup (2026-09-30): **1**.
 
 | Repository | Content | Classification | Notes |
 |---|---|---|---|
-| `UmutB34` | Profile README | **KEEP** | Now carries the professional profile. |
-| `Vmware` | Single text file (`vmwk17key.txt`) copied from a public gist, listing VMware Workstation license keys | **ARCHIVE CANDIDATE — remove (urgent)** | See finding below. |
+| `UmutB34` | Profile README | **KEEP** | Carries the professional profile. |
 
-### Evaluation
-
-| Criterion | `UmutB34` | `Vmware` |
-|---|---|---|
-| Professional relevance | High | None |
-| Code / documentation quality | Profile README only | No README, no code |
-| Security | Clean | Distributes third-party license keys |
-| Activity | Active | Untouched since 2024-06 |
-| Career relevance | High | Negative |
-| Technical credibility | Positive | Negative |
-
-### Finding: `Vmware` repository (high priority)
-
-The repository publicly redistributes software license keys that were copied from
-someone else's gist, including third-party links and promotional text.
-
-For a profile positioned toward IT management — a role that typically owns software
-licensing compliance — this is a reputational and compliance risk, and it is
-the first thing a reviewer will see in the repository list.
-
-Also note: VMware Workstation Pro is free for personal use (Broadcom, 2024), so the
-file has no remaining practical value.
-
-**Recommended action (owner decision):** delete the repository, or at minimum make it
-private. Archiving alone is not enough — archived repositories remain public.
-This has not been changed automatically.
+A legacy repository with no portfolio value was removed on 2026-09-30.
 
 ---
 
@@ -56,8 +30,6 @@ as they are published (section 3), in this order of priority:
 3. `enterprise-it-operations`
 4. `automation-toolkit`
 5. `architecture-notes`
-
-Leave `Vmware` unpinned and remove it.
 
 ---
 
@@ -163,8 +135,8 @@ Use placeholders (`example.com`, RFC 5737 documentation ranges such as
 
 ## 5. Next actions
 
-1. Remove or make private the `Vmware` repository.
-2. Pin the profile repository; add pins as showcase repositories are published.
-3. Publish `enterprise-infrastructure-lab` first — it best proves hands-on depth.
-4. Publish `security-operations-toolkit` with 2–3 small, well-documented defensive checks.
-5. Add `architecture-notes` with the first sanitized ADRs (e.g. network segmentation, backup strategy).
+1. Pin the profile repository; add pins as showcase repositories are published.
+2. Publish `enterprise-infrastructure-lab` first — it best proves hands-on depth.
+3. Publish `security-operations-toolkit` with 2–3 small, well-documented defensive checks.
+4. Add `architecture-notes` with the first sanitized ADRs (e.g. network segmentation, backup strategy).
+5. Publish `enterprise-it-operations` with the first runbooks and change templates.
