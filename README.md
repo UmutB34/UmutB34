@@ -89,6 +89,10 @@ automation concepts before translating the lessons into larger environments.
 `network segmentation` · `self-hosted services` · `monitoring` · `automation` ·
 `security controls` · `agent-based workflows`
 
+→ **[enterprise-infrastructure-lab](https://github.com/UmutB34/enterprise-infrastructure-lab)** —
+architecture, access model, decision records and lessons learned, documented the way
+they would be run in production.
+
 ## Core Technology Domains
 
 | Operations & Infrastructure | Security & Governance | Transformation & Delivery |
