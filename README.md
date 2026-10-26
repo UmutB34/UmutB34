@@ -16,14 +16,14 @@ About twenty years across enterprise IT operations, infrastructure, security, di
 
 | Project | What it is |
 |---|---|
-| [it-leadership-playbooks](https://github.com/UmutB34/it-leadership-playbooks) | Vendor-neutral operating notes and templates: budget, service desk, audit readiness, disaster recovery, hardening and more |
-| [enterprise-infrastructure-lab](https://github.com/UmutB34/enterprise-infrastructure-lab) | Layered architecture, quality engineering and agent-engine design, documented like production |
-| [security-operations-toolkit](https://github.com/UmutB34/security-operations-toolkit) | Defensive, read-only checks for e-mail authentication, TLS certificates and HTTP security headers |
+| [it-leadership-playbooks](https://github.com/UmutBecan/it-leadership-playbooks) | Vendor-neutral operating notes and templates: budget, service desk, audit readiness, disaster recovery, hardening and more |
+| [enterprise-infrastructure-lab](https://github.com/UmutBecan/enterprise-infrastructure-lab) | Layered architecture, quality engineering and agent-engine design, documented like production |
+| [security-operations-toolkit](https://github.com/UmutBecan/security-operations-toolkit) | Defensive, read-only checks for e-mail authentication, TLS certificates and HTTP security headers |
 | [Korantix](https://korantix.io) | Domain and e-mail security monitoring from public data only: no credentials, no tenant access |
 
 ## Academic
 
-MSc in Computer Engineering. Coursework on machine learning (KNIME), big data (Hadoop and Hive) and mobile networks is in [academic](https://github.com/UmutB34/it-leadership-playbooks/tree/main/academic).
+MSc in Computer Engineering. Coursework on machine learning (KNIME), big data (Hadoop and Hive) and mobile networks is in [academic](https://github.com/UmutBecan/it-leadership-playbooks/tree/main/academic).
 
 ## How I work
 
@@ -35,4 +35,4 @@ MSc in Computer Engineering. Coursework on machine learning (KNIME), big data (H
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/umutbecan) · [korantix.io](https://korantix.io)
+[LinkedIn](https://www.linkedin.com/in/umutbecan) · [korantix.io](https://korantix.io) · destek@korantix.io
